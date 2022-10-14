@@ -1,0 +1,29 @@
+body {background-color: #674b24; text-align: center;font-style: normal; font-family: Arial, Helvetica, sans-serif;}
+header{ font-family: Arial, Helvetica, sans-serif;background-color: #ffffff; margin-left: 90px;margin-right: 90px;}
+h1 {font-size: 350%;font-family: Arial, Helvetica, sans-serif;font-style: normal;}
+aside { width:20%;
+	border : 5px solid black ;
+	background-color: rgb(0, 0, 0);height:50px;color: #ffffff; font-size: large;font-style: normal;font-family: Arial, Helvetica, sans-serif;}
+section {background-color: #dfdfdf; margin-left: 90px;margin-right: 90px;}
+div.border {border-bottom: 5px solid black;}
+div{background-color: #dfdfdf; margin-left: 90px;margin-right: 90px;}
+a { background-color: #e2ddde; text-align: center; font-family: Arial, Helvetica, sans-serif;color: rgb(139, 38, 38); }
+p1 {font-family: Arial, Helvetica, sans-serif ; font-style: normal; font-weight: bold;}
+h2 {font-family: Arial, Helvetica, sans-serif;font-weight: lighter;background-color: #ffffff;margin-left: 90px;margin-right: 90px;}
+h3 {font-family: Arial, Helvetica, sans-serif; color: darkred;}
+img1,img2,img3 {
+	width:400px;
+	height:400px;
+}
+
+table, td {
+	border: 3px #686868 solid; background-color: #ffffff;margin-left: auto;
+  margin-right: auto;
+}
+h4 {color: darkred; font-size: 170%;font-family: Arial, Helvetica, sans-serif;font-style: normal;}
+footer {background-color: #dfdfdf; margin-left: 90px;margin-right: 90px;border-style : solid ; font-size: large; font-family: Arial, Helvetica, sans-serif;
+	border-color : #dfdfdf ;
+	border-width : 4px;
+	background-color: #dfdfdf;
+	border-top-width : 50px;
+	margin : 5rem; }
